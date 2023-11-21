@@ -1,6 +1,4 @@
 # fdupes-sort
-Sort fdupes output by file size
-
 
 This is a one liner my friend Michael Anthon (MrChook)  made back in 2006 for sorting the output of fdupes by file size.
 
